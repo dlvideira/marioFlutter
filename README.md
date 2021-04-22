@@ -1,6 +1,6 @@
-# first_app
+# Mario Flutter (First App)
 
-A new Flutter project.
+App used to learn some syntax and framework features.
 
 ## Getting Started
 
